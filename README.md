@@ -1,0 +1,1 @@
+# godown-stock-manager-privacy
